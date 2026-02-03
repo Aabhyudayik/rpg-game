@@ -13,3 +13,4 @@
 3. Claw hammer power: 50 
 4.  Sword power: 100
 5. Scythe power:200
+
